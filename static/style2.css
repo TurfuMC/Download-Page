@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    text-decoration: white;
+    padding: 30px;
+    background-image: url('https://download.zendrique.ml/image-bien-originale.jpg');
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    color: white;
+}
+
+body{
+    font: 20px Helvetica, sans-serif;
+    color: white;
+}
+
+a{
+    color: #dc8100;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+    text-decoration: none;
+}
