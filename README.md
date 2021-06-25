@@ -1,6 +1,7 @@
-## Page de téléchargement de mon launcher
+## Page de téléchargement du launcher Minecraft TurfuMC
 
-Bonjour, j'ai remarque que les pages de téléchargement, ça ne cout pas les rue ou devrai-je plutôt dire les repos xD
-Donc j'ai décidé de vous partager la mienne qui j'utilise pour fournir le launcher Turfu aux joueurs (h
-https://download.zendrique.ml/launcher/)
-Vous pouvez si voue le voulez réutiliser cette page sans problème, à partir du moment que la licence est respecté :)
+Vous trouverez ici, le code source de la [page de téléchargement](https://download.zendrique.ml/launcher/ "page de téléchargement") du launcher de TurfuMC.
+
+Cette page est open source et distribuer sous la licence : ```GNU General Public License v3.0```
+
+Vous pouvez également contribuer à cette page pour la rendre meilleur.
